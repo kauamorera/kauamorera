@@ -4,14 +4,9 @@
 
 ### 💻 Desenvolvedor ADVPL | TOTVS Protheus | SQL
 
-<p>
-  <a href="https://github.com/kauamorera">
-    <img src="https://img.shields.io/badge/GitHub-kauamorera-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/kauamorera/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kaua%20Morera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/kauamorera/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
@@ -61,82 +56,37 @@ Meu foco está em transformar necessidades de negócio em soluções eficientes,
 
 ---
 
-## 🚀 Projetos & Experiência
-
-<table>
-<tr>
-<td width="50%">
-
-### 📊 Planejamento e Controle de Produção
-
-Desenvolvimento de funcionalidades para planejamento e controle da produção dentro do **TOTVS Protheus**.
-
-**Atuação:**
-
-- Desenvolvimento ADVPL
-- MVC
-- SQL
-- Relatórios
-- Regras de negócio
-- Rotinas de produção
-
-`ADVPL` `Protheus` `SQL`
-
-</td>
-
-<td width="50%">
-
-### 📋 Kanban de Produção
-
-Desenvolvimento e manutenção de funcionalidades relacionadas ao acompanhamento da produção e cartões Kanban.
-
-**Atuação:**
-
-- Relatórios
-- Regras de inatividade
-- Datas de importação
-- Ordens de produção
-- Rotinas de acompanhamento
-
-`ADVPL` `Protheus` `SQL`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔐 Portal de Aprovação
-
-Projeto de estudo para criação de uma aplicação de aprovação de pedidos utilizando APIs e arquitetura moderna.
-
-**Tecnologias:**
-
-`TypeScript` `Node.js` `REST API` `SQL`
-
-</td>
-
-<td width="50%">
-
-### 🧩 Integrações & Automação
-
-Projetos voltados à integração entre sistemas, automação de processos e organização de ambientes de desenvolvimento.
-
-`Git` `GitHub` `APIs` `Linux`
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 GitHub
+## 🚀 Meus Repositórios
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kauamorera&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165">
+<a href="https://github.com/kauamorera?tab=repositories">
+  <img src="https://img.shields.io/badge/Ver%20todos%20os%20repositórios-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamorera&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" height="165">
+</div>
+
+<br>
+
+> 🛠️ Projetos, estudos e experimentos em desenvolvimento.
+>
+> Atualmente focado em **ADVPL, TOTVS Protheus, SQL, TypeScript e APIs**.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=kauamorera&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  height="165"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamorera&layout=compact&hide_border=true&theme=tokyonight&langs_count=6"
+  height="165"
+/>
 
 </div>
 
@@ -144,7 +94,9 @@ Projetos voltados à integração entre sistemas, automação de processos e org
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kauamorera&theme=tokyo-night&hide_border=true&area=true">
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=kauamorera&theme=tokyo-night&hide_border=true&area=true"
+/>
 
 </div>
 
@@ -179,12 +131,8 @@ Projetos voltados à integração entre sistemas, automação de processos e org
 
 <br>
 
-<a href="https://github.com/kauamorera">
-  <img src="https://img.shields.io/badge/GitHub-kauamorera-181717?style=for-the-badge&logo=github">
-</a>
-
 <a href="https://www.linkedin.com/in/kauamorera/">
-  <img src="https://img.shields.io/badge/LinkedIn-Kaua%20Morera-0A66C2?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-Kaua%20Morera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
