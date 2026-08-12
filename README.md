@@ -1,54 +1,29 @@
-<div align="center">
-
-# Kaua Morera Baldin
-
-### Desenvolvedor ADVPL | TOTVS Protheus | SQL
-
-<a href="https://www.linkedin.com/in/kauamorera/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/kauamorera/kauamorera/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/kauamorera/kauamorera/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="125" alt="languages graph"  />
 </div>
 
----
+###
 
-### Sobre mim
-
-Desenvolvedor com foco em **TOTVS Protheus**, atuando principalmente com **ADVPL, SQL e desenvolvimento de soluções empresariais**.
-
-Atualmente cursando **Análise e Desenvolvimento de Sistemas**.
-
----
-
-### Linguagens e Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,typescript,nodejs,html,css,vscode" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/ADVPL-0066CC?style=flat-square">
-<img src="https://img.shields.io/badge/TLPP-0066CC?style=flat-square">
-<img src="https://img.shields.io/badge/TOTVS%20Protheus-0066CC?style=flat-square">
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
-
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
----
+###
 
-### Estatísticas
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=kauamorera&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
-  height="170"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamorera&layout=compact&theme=dark&hide_border=true&langs_count=6"
-  height="170"
-/>
-
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/kauamorera/kauamorera/snake-output/snake.svg" alt="Snake animation" />
+
+###
