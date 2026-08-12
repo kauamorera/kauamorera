@@ -1,16 +1,16 @@
-## Hi there 👋
+# > Kauã Baldin
 
-<!--
-**kauamorera/kauamorera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `Assistente de TI • Desenvolvedor em formação`
 
-Here are some ideas to get you started:
+```bash
+$ whoami
+Kauã Baldin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ currently_learning
+TLPP • TypeScript • SQL • Angular
+
+$ working_with
+TOTVS Protheus • ADVPL • SQL Server
+
+$ focus
+Backend • APIs • Desenvolvimento Web
