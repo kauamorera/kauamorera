@@ -81,8 +81,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauabaldin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauabaldin&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="./profile/stats.svg" height="180em" />
+  <img src="./profile/top-langs.svg" height="180em" />
 </p>
 
 ---
