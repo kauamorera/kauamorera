@@ -1,30 +1,89 @@
-<img data-importer="snake" src="https://raw.githubusercontent.com/kauamorera/kauamorera/snake-output/snake.svg" alt="Snake animation" />
+                                                         Kaua Morera Baldin
 
-###
+- Sou estudante de Ciência da Computação na Universidade Franciscana (UFN), bolsista integral, com foco em desenvolvimento back-end e maior familiaridade com Java, Programação Orientada a Objetos, Estruturas de Dados e Lógica de Programação.
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/kauamorera/kauamorera/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+- Atualmente, trabalho na área de vendas, onde desenvolvo habilidades de comunicação, negociação, relacionamento com clientes, organização e resolução de problemas. 
 
-###
+- Na área de tecnologia, possuo conhecimentos em Java, Python, C, C++, Spring Boot, MySQL, JavaScript, HTML e CSS, além de experiência com projetos acadêmicos, projetos pessoais, automação de tarefas, análise de dados e desenvolvimento de sistemas.
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
-</div>
-
-###
-
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/kauamorera/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://wilsondebus.github.io/Portfolio/">
+    <img
+      height="70"
+      src="https://img.shields.io/badge/VISITAR%20PORTFÓLIO-006DAC?style=for-the-badge&logo=googlechrome&logoColor=white"
+      alt="Visitar Portfólio"
+    >
   </a>
-  <a href="https://www.instagram.com/kauabaaldin/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+</p>
+
+## 💻 Minha Stack:
+### 👨‍💻 Linguagens de Programação
+<p align="left">
+<p>
+ <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+ <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+ <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
+ <img height ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+ <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+ <img height ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</p>
+
+### ⚙️ Frameworks e Bibliotecas
+<p align="left">
+<p>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+  <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+
+</p>
+
+### 🗄️ Bancos de Dados
+<p align="left">
+<p>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+
+</p>
+
+### 🧰 IDEs e Ambientes de Desenvolvimento
+<p align="left">
+<p>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netbeans/netbeans-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+</p>
+
+### 🔀 Controle de Versão e Colaboração
+<p align = "left">
+<p>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</p>
+
+---
+
+## 📫 Contato: 
+<div> 
+  <a href = "mailto:wilsonddebus@gmail.com">
+  <img height = "40" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+  <a href="https://www.linkedin.com/in/wilson-dias-debus-a92a69358/" target="_blank">
+  <img height = "40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  <a href="https://instagram.com/wilsondebus_" target="_blank">
+  <img height = "40" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+  <a href="https://discord.com/users/534037161775857676" target="_blank">
+  <img height = "40" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
 </div>
 
-###
+---
+
+## 📊 GitHub Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wilsondebus&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wilsondebus&theme=tokyonight)
+
+---
