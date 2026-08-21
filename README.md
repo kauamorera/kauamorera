@@ -27,6 +27,8 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </p>
 
+**ADVPL** • **TLPP** • **PRW**
+
 ### ⚙️ Frameworks e Bibliotecas
 
 <p align="left">
@@ -34,14 +36,17 @@
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 </p>
 
-**ADVPL** • **TLPP** • **PO UI**
+**PO UI**
 
 ### 🗄️ Bancos de Dados
 
 <p align="left">
 <p>
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
 </p>
+
+**SQL**
 
 ### 🧰 IDEs e Ambientes de Desenvolvimento
 
