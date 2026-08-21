@@ -65,20 +65,16 @@
 
 ---
 
-## 📫 Contato: 
-<div> 
-  <a href = "mailto:wilsonddebus@gmail.com">
-  <img height = "40" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  <a href="https://www.linkedin.com/in/wilson-dias-debus-a92a69358/" target="_blank">
-  <img height = "40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  <a href="https://instagram.com/wilsondebus_" target="_blank">
-  <img height = "40" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-  <a href="https://discord.com/users/534037161775857676" target="_blank">
-  <img height = "40" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
-</div>
+## 📫 Contatos
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kauamorera">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/kauabaaldin/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ---
 
