@@ -6,7 +6,7 @@
 
 - Na área de tecnologia, possuo conhecimentos em ADVPL, TLPP, Angular, PO UI, MySQL, JavaScript, HTML e CSS, além de experiência com projetos acadêmicos e pessoais, automação de tarefas, análise de dados e desenvolvimento de sistemas.
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://wilsondebus.github.io/Portfolio/">
     <img
       height="70"
@@ -14,7 +14,7 @@
       alt="Visitar Portfólio"
     >
   </a>
-</p>
+</p> -->
 
 ## 💻 Minha Stack:
 
