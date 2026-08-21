@@ -1,4 +1,6 @@
-# Kaua Morera Baldin
+<h1 align="center">Kaua Morera Baldin</h1>
+
+- Sou estudante de Desenvolvimento de Sistemas no Centro Universitário da Serra Gaúcha (FSG), na modalidade EAD, com interesse em desenvolvimento de software e familiaridade com Programação Orientada a Objetos, Estruturas de Dados e Lógica de Programação. Durante a graduação, venho desenvolvendo conhecimentos em Algoritmos e Programação, Engenharia de Software, Gestão Ágil de Projetos, Redes de Computadores e desenvolvimento de aplicações, buscando aprimorar minha capacidade de criar soluções tecnológicas eficientes para diferentes necessidades.
 
 - Sou estudante de Desenvolvimento de Sistemas no Centro Universitário da Serra Gaúcha (FSG), na modalidade EAD, com interesse em desenvolvimento de software e familiaridade com Programação Orientada a Objetos, Estruturas de Dados e Lógica de Programação. Durante a graduação, venho desenvolvendo conhecimentos em Algoritmos e Programação, Engenharia de Software, Gestão Ágil de Projetos, Redes de Computadores e desenvolvimento de aplicações, buscando aprimorar minha capacidade de criar soluções tecnológicas eficientes para diferentes necessidades.
 
