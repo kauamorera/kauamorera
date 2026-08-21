@@ -1,10 +1,10 @@
                                                          Kaua Morera Baldin
 
-- Sou estudante de Ciência da Computação na Universidade Franciscana (UFN), bolsista integral, com foco em desenvolvimento back-end e maior familiaridade com Java, Programação Orientada a Objetos, Estruturas de Dados e Lógica de Programação.
+- Sou estudante de Desenvolvimento de Sistemas no Centro Universitário da Serra Gaúcha (FSG), na modalidade EAD, com interesse em desenvolvimento de software e familiaridade com Programação Orientada a Objetos, Estruturas de Dados e Lógica de Programação. Durante a graduação, venho desenvolvendo conhecimentos em Algoritmos e Programação, Engenharia de Software, Gestão Ágil de Projetos, Redes de Computadores e desenvolvimento de aplicações, buscando aprimorar minha capacidade de criar soluções tecnológicas eficientes para diferentes necessidades.
 
-- Atualmente, trabalho na área de vendas, onde desenvolvo habilidades de comunicação, negociação, relacionamento com clientes, organização e resolução de problemas. 
+- Atualmente, trabalho na área de Tecnologia da Informação, atuando com o ERP TOTVS Protheus no desenvolvimento e customização de soluções para atender às necessidades do negócio. Minha atuação envolve desenvolvimento em ADVPL e TLPP, consultas e manipulação de dados com SQL, manutenção e evolução de rotinas do sistema, criação e ajustes de relatórios e integração entre diferentes processos do ERP.
 
-- Na área de tecnologia, possuo conhecimentos em Java, Python, C, C++, Spring Boot, MySQL, JavaScript, HTML e CSS, além de experiência com projetos acadêmicos, projetos pessoais, automação de tarefas, análise de dados e desenvolvimento de sistemas.
+- Na área de tecnologia, possuo conhecimentos em ADVPL, TLPP, Angular, PO UI, MySQL, JavaScript, HTML e CSS, além de experiência com projetos acadêmicos e pessoais, automação de tarefas, análise de dados e desenvolvimento de sistemas.
 
 <p align="center">
   <a href="https://wilsondebus.github.io/Portfolio/">
